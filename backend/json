@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Inception", "imageUrl": "https://example.com/inception.jpg" },
+    { "id": 2, "title": "The Matrix", "imageUrl": "https://example.com/matrix.jpg" },
+    { "id": 3, "title": "Interstellar", "imageUrl": "https://example.com/interstellar.jpg" }
+  ]
+  
